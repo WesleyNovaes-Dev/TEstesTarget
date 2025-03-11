@@ -94,4 +94,4 @@ O programa retorna a string fornecida com os caracteres invertidos.
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/exercicios-programacao.git
+   git clone https://github.com/WesleyNovaes-Dev/TEstesTarget
